@@ -1,0 +1,9 @@
+[package]
+name = "demo_01_bevy_skein_lib"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bevy = "0.16.1"
+bevy_gltf_components = "0.6.0"
+bevy_skein = "0.2.1"
